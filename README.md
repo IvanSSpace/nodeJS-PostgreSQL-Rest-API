@@ -1,6 +1,6 @@
 # nodeJS-PostgreSQL-Rest-API
 
-## simple project on js use db postgreSQL and server on express
+## simple project on js use db postgreSQL and server on express. This project has 2 tables person and post
 
 ### 1 init dependance use - npm init
 
@@ -10,3 +10,5 @@
 ### 3 (optional) password if you have it
 
 ### 3 start project use npm run dev
+
+### for testing you can use commands in postman
